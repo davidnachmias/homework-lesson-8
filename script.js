@@ -8,7 +8,7 @@ function writefullName(firstName, lastName) {
   createP1.setAttribute("class","p1")
 //   createP1.style.color = "red";
 //   createP1.textDecoration = "underline";
-//  
+//  dfdf
 
 // I AM DAVID
 
