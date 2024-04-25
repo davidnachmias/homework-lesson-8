@@ -10,6 +10,7 @@ function writefullName(firstName, lastName) {
 //   createP1.textDecoration = "underline";
 //  
 
+// I AM DAVID
 
   const createP2 = document.createElement("p");
   createP2.innerText = lastName;
